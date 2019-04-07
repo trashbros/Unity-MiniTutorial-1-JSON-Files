@@ -1,0 +1,17 @@
+{
+	"items": [
+		{
+			"name": "name01",
+			"desc": "item description",
+			"sprite": "item image in inventory",
+			"action": "what the item does"
+		},
+		
+		{
+			"name": "name02",
+			"desc": "item description",
+			"sprite": "item image in inventory",
+			"action": "what the item does"
+		}
+	]
+}
